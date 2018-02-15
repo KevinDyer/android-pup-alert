@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pup Alert</string>
+    <string name="ble_not_supported">Bluetooth LE not supported</string>
+</resources>
